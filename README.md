@@ -26,7 +26,7 @@ User authentication and authorization are essential components of many web appli
 
 To get started with Authorization using JWT and REST API with MongoDB locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/MuhammadAhmadA01/Authorization-using-jwt-and-REST-Api-with-MongoDB.git`
+1. Clone this repository: `https://github.com/HassanMehmood-star/Authorization-using-jwt-and-REST-Api-with-MongoDB-main.git`
 2. Navigate to the project directory: `cd Authorization-using-jwt-and-REST-Api-with-MongoDB`
 3. Install dependencies: `npm install`
 4. Set up environment variables: Create a `.env` file in the root directory and define the following variables:
